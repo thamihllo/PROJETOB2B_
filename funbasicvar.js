@@ -28,7 +28,8 @@ console.log(multiplicar(3,5));
   
 const subtrair 
 
-
+// é necesário implementar as functions dividir () e multiplicar () na biblioteca 
+// comentario para teste de git 
 
 
 
